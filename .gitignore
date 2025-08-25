@@ -1,0 +1,18 @@
+# Dossiers Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Fichiers utilisateur
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages NuGet
+*.nupkg
+packages/
+
+# Autres caches et logs
+*.log
